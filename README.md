@@ -1,10 +1,10 @@
-# Hi, I'm Moazzam Ali 👋
+# Hi, I'm Moazzam Ali!
 
 ### Founder & AI Automation Engineer @ CodeDaxa Technologies
 
 I design and build intelligent automation systems that help businesses save time, process data, and scale operations.
 
-## 🚀 What I Build
+## What I Build
 
 🤖 AI Automation Systems  
 AI-powered tools and workflow automation solutions.
