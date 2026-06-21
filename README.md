@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Moazzam Ali 👋
 
-<!--
-**moazzamatkpkprogrammer/moazzamatkpkprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & AI Automation Engineer @ CodeDaxa Technologies
 
-Here are some ideas to get you started:
+I design and build intelligent automation systems that help businesses save time, process data, and scale operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+
+🤖 AI Automation Systems  
+AI-powered tools and workflow automation solutions.
+
+📊 Data Engineering Solutions  
+Data extraction, processing pipelines, and automation workflows.
+
+🔗 Business Integrations  
+CRM, API, and third-party system integrations.
+
+⚙️ Custom Automation Tools  
+Software solutions for repetitive and complex business processes.
+
+
+## Technical Focus
+
+- Python Automation
+- AI / LLM Applications
+- Web Scraping
+- Data Processing
+- API Development
+- CRM Automation
+- Cloud Solutions
+
+
+## Building
+
+🏢 Founder of CodeDaxa Technologies
+
+AI • Data • Automation
+
+
+---
+
+Helping businesses:
+
+Extract Data. Automate Work. Scale Faster.
